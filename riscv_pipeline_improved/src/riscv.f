@@ -1,0 +1,15 @@
+src/riscv_pkg.sv
+src/alu.sv
+src/control_unit.sv
+src/imm_decoder.sv
+src/register_file.sv
+src/instruction_memory.sv
+src/data_memory.sv
+src/reg_forward_unit.sv
+src/load_use_detector.sv
+src/reg_if_id.sv
+src/reg_id_ex.sv
+src/reg_ex_mem.sv
+src/reg_mem_wb.sv
+src/riscv_datapath.sv
+src/riscv_core.sv
